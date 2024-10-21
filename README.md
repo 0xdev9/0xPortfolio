@@ -1,6 +1,6 @@
 # 🎨 Mon Portfolio
 
-Bienvenue sur le repository de mon portfolio ! Ce site a été conçu pour mettre en avant mes projets et compétences en tant que développeur et créatif. Il s'agit de la version initiale de mon portfolio (v1), et de nombreuses améliorations sont prévues pour les versions futures. Vous pouvez consulter le site en ligne ici : [**Lien vers mon portfolio**](https://0xdev9.github.io/0xdev9PortFolio/)
+Bienvenue sur le repository de mon portfolio ! Ce site a été conçu pour mettre en avant mes projets et compétences en tant que développeur et créatif. Il s'agit de la version initiale de mon portfolio (v1), et de nombreuses améliorations sont prévues pour les versions futures. Vous pouvez consulter le site en ligne ici : [**Lien vers mon portfolio**](https://0xdev9.github.io/0xPortfolio/).
 
 ## ✨ Fonctionnalités
 
